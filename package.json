@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/yrezgui/yongsa/issues"
   },
-  "homepage": "https://github.com/yrezgui/yongsa"
+  "homepage": "https://github.com/yrezgui/yongsa",
+  "dependencies": {
+    "flux": "^2.0.1",
+    "keymirror": "^0.1.0",
+    "react": "^0.12.1"
+  }
 }
