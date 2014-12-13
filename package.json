@@ -1,0 +1,24 @@
+{
+  "name": "yongsa",
+  "version": "0.1.0",
+  "description": "Quick search within your favorite cloud services",
+  "main": "lib/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://yrezgui@github.com/yrezgui/yongsa.git"
+  },
+  "keywords": [
+    "yongsa",
+    "node-webkit",
+    "search"
+  ],
+  "author": "Yacine Rezgui <rezgui.y@gmail.com>",
+  "license": "Apache License v2",
+  "bugs": {
+    "url": "https://github.com/yrezgui/yongsa/issues"
+  },
+  "homepage": "https://github.com/yrezgui/yongsa"
+}
