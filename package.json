@@ -1,8 +1,8 @@
 {
   "name": "yongsa",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Quick search within your favorite cloud services",
-  "main": "lib/index.html",
+  "main": "./index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/yrezgui/yongsa",
   "dependencies": {
     "flux": "^2.0.1",
+    "flux-router-component": "^0.5.0",
     "keymirror": "^0.1.0",
     "react": "^0.12.1"
   },

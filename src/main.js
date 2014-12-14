@@ -1,11 +1,6 @@
-var React       = require('react/addons');
+var React     = require('react/addons');
+var LoginPage = require('./components/LoginPage');
 
-var HelloMessage = React.createClass({
-  render: function() {
-    return <div>Hello {this.props.name}</div>;
-  }
-});
-
-React.render(<HelloMessage name="John" />, document.getElementById('main'));
+React.render(<LoginPage />, document.getElementById('main'));
 
 window.React = React;
